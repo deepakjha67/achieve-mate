@@ -1,0 +1,28 @@
+{
+    "expo": {
+      "name": "AchieveMate",
+      "slug": "achieve-mate",
+      "version": "1.0.0",
+      "orientation": "portrait",
+      "icon": "https://cdn-icons-png.flaticon.com/512/3135/3135715.png",
+      "userInterfaceStyle": "dark",
+      "splash": {
+        "image": "https://cdn-icons-png.flaticon.com/512/3135/3135715.png",
+        "resizeMode": "contain",
+        "backgroundColor": "#121212"
+      },
+      "assetBundlePatterns": [
+        "**/*"
+      ],
+      "ios": {
+        "supportsTablet": true
+      },
+      "android": {
+        "adaptiveIcon": {
+          "foregroundImage": "https://cdn-icons-png.flaticon.com/512/3135/3135715.png",
+          "backgroundColor": "#121212"
+        },
+        "package": "com.deepak.achievemate"
+      }
+    }
+  }
